@@ -1,0 +1,5 @@
+streamlit
+tempfile
+google.generativeai
+plotly
+pdfplumber
